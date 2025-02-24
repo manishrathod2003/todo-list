@@ -34,8 +34,8 @@ A simple To-Do List web application that allows users to add, check, and delete 
 ```
 
 ## Screenshots
-![To-Do List Preview](images/screenshot.png)  
-*(Replace `screenshot.png` with an actual screenshot of your app)*
+![To-Do List Preview](images/Screenshot.png)  
+
 
 ## Future Enhancements
 - Add task editing functionality
